@@ -1,0 +1,46 @@
+#specialid{
+ background-color: blue;
+ color: white
+}
+a:link {
+ color: red;
+}
+
+a:visited {
+ color: green;
+}
+
+a:active {
+ color: #00ffff;
+}
+
+a:hover {
+ color: yellow;
+}
+
+h1 {
+  background-color: blue;
+  color: white;
+}
+
+h2 {
+  background-color: blue;
+  color: white;
+}
+
+h3 {
+  background-color: blue;
+  color: white;
+}
+
+h4 {
+  background-color: blue;
+  color: white;
+}
+#divexample{
+  color: blue;
+  background-color: yellow;
+}
+.spanstyle{
+  color: red;
+}
