@@ -1,0 +1,69 @@
+body{
+  font-family: sans-serif;
+}
+
+#specialid{
+ background-color: blue;
+ color: white;
+ text-align: center
+}
+a:link {
+ color: red;
+}
+
+{
+
+}
+a:visited {
+ color: green;
+}
+
+a:active {
+ color: #00ffff;
+}
+
+a:hover {
+ color: yellow;
+}
+
+h1 {
+  background-color: blue;
+  font-style: italic;
+  font-weight: normal;
+  color: orange;
+}
+
+h2 {
+  background-color: blue;
+  font-style: italic;
+  font-weight: normal;
+  color: orange;
+}
+
+h3 {
+  background-color: blue;
+  font-style: italic;
+  font-weight: normal;
+  color: orange;
+}
+
+h4 {
+  background-color: blue;
+  font-style: italic;
+  font-weight: normal;
+  color: orange;
+}
+#divexample{
+  color: blue;
+  background-color: yellow;
+  text-align: justify;
+}
+.spanstyle{
+  color: red;
+}
+
+.image1{
+  border: 10px solid #0000ff;
+  padding: 5px;
+  background-color: white;
+}
