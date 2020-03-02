@@ -1,0 +1,76 @@
+.purpleTO{
+  color:#F34DA3;
+  font-weight: 900;
+  font-size: 120px;
+  line-height: .9;
+}
+.footer{
+  color: red;
+  font-weight: 900;
+  margin: 20px 50px 20px 210px
+}
+#sorrytobotherYOU{
+  text-align: center;
+  line-height: 0;
+  font-weight: 900;
+  font-size: 120px;
+  margin:-100px 20px 20px 20
+}
+.toBother{
+  color:#F34DA3;
+}
+a:link{
+  color: #8822F5;
+}
+.aBOOTSrileyFILM{
+  color: #8822F5;
+}
+h1{
+  color:#8822F5;
+  font-family: Impact,sans-serif;
+  font-weight: bold;
+  margin:
+}
+
+.names{
+  color: red;
+  font-size: 26;
+  margin: 520px 0px 0px 20px;
+  font-weight: 900;
+  border-bottom: 5px solid #8822F5;
+
+}
+.red{
+  color: red;
+  font-size: 120px;
+  font-weight: 900;
+  line-height: .2;
+
+}
+.purpleText{
+  color: #8822F5;
+  font-size: 16;
+  font-weight: 900;
+}
+.RatedR{
+  margin: 20px 50px 20px 200px;
+}
+.A{
+  font-family: Impact, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+}
+body{
+  color: red;
+  background-color: #FCD616;
+  background-image: url(Lakeith.jpg);
+  background-repeat: no-repeat;
+  background-position: top left;
+  width: 600px;
+  font-weight: bold;
+  font-family: Impact, sans-serif;
+}
+.aBOOTSrileyFILM{
+  border-bottom: 5px solid #8822F5;
+  margin:0px 50px 20px 0%;
+}
