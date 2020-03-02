@@ -1,0 +1,34 @@
+h1{
+  color: white;
+}
+h2{
+  color:blue;
+}
+h3{
+  background-color: yellow;
+}
+h4{
+  color: yellow;
+  background-color: green;
+}
+h5{
+  color: purple
+}
+a:link {
+ color: green;
+}
+.divpurple{
+  background-color: #919DF6
+}
+.spanstyle1{
+  color: #F6C636
+}
+.specialclass{
+  color: red
+}
+#divexercise5{
+  background-color: #71F98C
+}
+.spanstyle2{
+  color: #F6C636
+}
