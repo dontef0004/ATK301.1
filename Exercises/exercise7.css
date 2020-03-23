@@ -1,0 +1,50 @@
+header {
+}
+
+body{
+  background-color: #999999
+}
+
+.wrapper{
+  width:960px
+  border: 1px solid #ff0000;
+  background-color: #ffffff;
+  margin: 1 em auto;
+}
+.floatimage{
+  width: 100px;
+  float: left;
+}
+
+nav {
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 5px;
+  padding: 5px;
+}
+
+nav li {
+  display: inline-block;
+  margin: 5px;
+}
+
+nav li a {
+  display: block;
+  background-color: red;
+  border: 1px solid black;
+  padding: 1em;
+  color: white;
+  text-decoration: none;
+  width: 150px;
+}
+
+main {
+}
+
+aside {
+}
+
+footer {
+}
